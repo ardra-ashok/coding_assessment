@@ -163,3 +163,4 @@ Whereas objecttypes are passed by reference.`
 
 # What is escape character in JS?
 Escape characters are used when working with special characters like single quotes, apostrophes, and ampersands. Place backslash before the character to make it display.
+

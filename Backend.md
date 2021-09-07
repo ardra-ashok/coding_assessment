@@ -75,3 +75,14 @@ Relation or links between entities that have something to do with each other. Th
 # what is Index? different types of index. 
 A SQL index is used to retrieve data from a database very fast. 
 Unique index - doesnt allow the field to have duplicate values if the column is unique indexed. If a primary key is defined, a unique index can be applied automatically.
+
+# inner join commands
+select * from person JOIN car on person.car_id = car.id;
+
+# left join commands
+select * from person LEFT JOIN car on car.id = person.car_id;
+select * from person LEFT JOIN car on car.id = person.car_id WHERE car.* IS NULL.
+
+OOP concepts , SDLC , RDBMS, testing , Agile etc
+
+

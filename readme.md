@@ -23,8 +23,9 @@ the virtual DOm gets compared to what it looked like before you updated it. reac
 The changed objects, the changed objects only get updated on the REAL DoM.
 the process is known as reconcilation 
 
-## SDLC 
-planning, analysis, design, development, testing, implementation, and maintenance.
+## SDLC - 
+Software development life cycle is an end to end process that defines the flow of the development of a project from requirement stage to support stage. Different stages in SDLC are 
+requirement analysis,planning, design, development, testing, deployment and maintenance.
 
 ## Database
 A database is an organized collection of structured information, or data, typically stored electronically in a computer system.

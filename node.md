@@ -194,4 +194,22 @@ speeds up application execution and response process and gives you a fast runnin
 Node is server-side technology
 Ajax is client-side technology
 Node is required to develop the server software that are typically executed by the servers instead of web browsers.
-Ajax is required for updating or modifying the webpage contents without having to refresh it.
+Ajax is required for updating or modifying the webpage contents without having to refresh it.\
+
+# What are some HTTP status Codes?
+1xx Informational
+ 100 Continue
+2xx Success
+ 200 OK
+ 201 Created
+ 202 Accepted
+3xx Redirection
+ 300 Multiple Choices
+ 301 Moved Permanently
+ 302 Found
+4xx Client Error
+  400 Bad Request
+  401 Unauthorized
+  402 Payment Required
+5xx Server Error
+  
