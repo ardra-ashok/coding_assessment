@@ -58,11 +58,16 @@ Data integrity is the overall accuracy, completeness, and consistency of data.
 # query to display the current date
 select getDate();
 
+# What are Joins?
+Joins are used to get result from multiple tables using primary and foreign keys of related tables.
 # Explain different joins?
 Inner Join - returns those records which have matching values in both the table. 
 full join - returns all those records which either have a match in the left or right table.
 left join - returns record from the left table,and also those records which satisfy the condition from right table.
 right join - returns record from the right table,and also those records which satisfy the condition from left table.
+
+# What are triggers in SQL?
+Triggers are stored procedure that are invoked when some event like insert, delete and update happens in the database on a particular table.
 
 # What is denormalization?
 

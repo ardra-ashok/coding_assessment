@@ -67,6 +67,11 @@ Structs are value type whereas Classes are reference type. // 2 points are enoug
 Members of a class are private by default,to make it public we need to add the public modifier. In struct, by default members are public, if we need any private members, we have to use a modifier. 
 Value types hold their value in memory where they are declared, but reference type holds a reference to an object memory.
 Struct cannot have a default constructor (a constructor without parameters) or a destructor. where as classes can have.
+# Explain the concept of Inheritance?
+Inheritance is a concept where a child class can access method of base class. Inheritance can be acheived by extending a parent class or by using interfaces
+
+# What are different modifiers in languages?
+Public, private, protected and default
 
 
 
