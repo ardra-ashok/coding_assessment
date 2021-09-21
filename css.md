@@ -19,7 +19,7 @@ Each key/value pair, as separated by a colon and ending in a semicolon, is a dec
 In those key/value pairs, the key is a property (color), and the value is a value(blue).
 
 # What are the elements of a CSS block modal?
-The CSS Box Model defines the layout and design of CSS elements.
+The CSS Box Modal defines the layout and design of CSS elements.
 Content - The content of the box, where text and images appear
 Padding - Clears an area around the content. The padding is transparent
 Border - A border that goes around the padding and content

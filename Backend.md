@@ -88,6 +88,6 @@ select * from person JOIN car on person.car_id = car.id;
 select * from person LEFT JOIN car on car.id = person.car_id;
 select * from person LEFT JOIN car on car.id = person.car_id WHERE car.* IS NULL.
 
-OOP concepts , SDLC , RDBMS, testing , Agile etc
+OOP concepts , SDLC , RDBMS, testing , Agile etc, trial and error method
 
 
